@@ -1,5 +1,9 @@
 # 💫 About Me:
-# 👋 Hi, I’m Olegs (Ollie)<br><br>💻 Information Technology student | 🌐 Web Developer | 🎯 Future Computer Science major  <br><br>I speak **English** 🇬🇧 and **Russian** 🇷🇺.  <br>Currently working as a **lead web developer** on two projects, where I build and maintain their websites.  <br><br>### 🚀 What I do<br>- Build and design websites (front-end + back-end basics)  <br>- Lead development teams for live projects  <br>- Explore new technologies to sharpen my skills  <br><br>### 🌱 Goals<br>- Progress into **Computer Science** studies  <br>- Grow as a **full-stack developer**  <br>- Contribute to open-source projects  <br><br>✨ Always learning. Always building.
+# 👋 Hi, I’m Olegs (Ollie)<br><br>💻 Computing Student | 🌐 Web Developer | 🎯 Future Software Engineer 
+
+
+<br><br>I speak **English** 🇬🇧 and **Russian** 🇷🇺.  
+<br>Currently working in hospitality, where I am working and looking at physical workflows and how to make them easier using software, off the shelf or bespoke <br><br>### 🚀 What I do<br>- Build and design websites (front-end + back-end basics)  <br>- Lead development teams for live projects  <br>- Explore new technologies to sharpen my skills  <br><br>### 🌱 Goals<br>- Progress into **Software Enginering**   <br>- Grow as a **full-stack developer**  <br>- Contribute to open-source projects  <br><br>✨ Always learning. Always building.
 
 
 ## 🌐 Socials:
